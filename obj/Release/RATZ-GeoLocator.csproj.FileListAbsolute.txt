@@ -1,0 +1,10 @@
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\bin\Release\RATZ-GeoLocator.exe.config
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\bin\Release\RATZ-GeoLocator.exe
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\bin\Release\RATZ-GeoLocator.pdb
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\obj\Release\RATZ-GeoLocator.csproj.AssemblyReference.cache
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\obj\Release\RATZ-GeoLocator.csproj.CoreCompileInputs.cache
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\obj\Release\RATZ-Geo.45432DAB.Up2Date
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\obj\Release\RATZ-GeoLocator.exe
+C:\Users\Lecs0\source\repos\RATZ-GeoLocator\obj\Release\RATZ-GeoLocator.pdb
